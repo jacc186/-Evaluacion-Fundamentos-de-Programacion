@@ -115,9 +115,7 @@ namespace Ejercicio_4
         static void Main(string[] args)
         {
             Console.WriteLine("----------Venta de coches----------");
-
             Venta();
-
             Console.ReadKey();
         }
     }
