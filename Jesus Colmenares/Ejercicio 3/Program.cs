@@ -86,7 +86,9 @@ namespace Ejercicio_3
                 "La bolsa mas liviana:                      \t{1} {2}\n" +
                 "La cantidad de bolsas de carne:            \t{3}\n" +
                 "Promedio de bolsas de carne:               \t{4}",
-                promedioPeso, menorpeso, menorSabor, cantidadBolsasCarne, promedioPesoCarne);
+                promedioPeso/10, menorpeso, menorSabor, cantidadBolsasCarne, promedioPesoCarne/cantidadBolsasCarne);
+
+            Console.ReadKey();
         }
     }
 }
