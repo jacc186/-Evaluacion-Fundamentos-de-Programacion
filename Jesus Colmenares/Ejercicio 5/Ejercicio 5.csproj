@@ -7,7 +7,7 @@
     <ProjectGuid>{3CA313D0-ECCB-4629-AF46-F4E93DDD9618}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Ejercicio_5</RootNamespace>
-    <AssemblyName>Ejercicio_5</AssemblyName>
+    <AssemblyName>Ejercicio 5</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

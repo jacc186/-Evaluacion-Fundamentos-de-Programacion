@@ -1,0 +1,7 @@
+C:\Users\W10-PC\Desktop\Evaluacion 1 PROEM\Jesus Colmenares\Ejercicio 5\bin\Debug\Ejercicio 5.exe.config
+C:\Users\W10-PC\Desktop\Evaluacion 1 PROEM\Jesus Colmenares\Ejercicio 5\bin\Debug\Ejercicio 5.exe
+C:\Users\W10-PC\Desktop\Evaluacion 1 PROEM\Jesus Colmenares\Ejercicio 5\bin\Debug\Ejercicio 5.pdb
+C:\Users\W10-PC\Desktop\Evaluacion 1 PROEM\Jesus Colmenares\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\Desktop\Evaluacion 1 PROEM\Jesus Colmenares\Ejercicio 5\obj\Debug\Ejercicio 5.exe
+C:\Users\W10-PC\Desktop\Evaluacion 1 PROEM\Jesus Colmenares\Ejercicio 5\obj\Debug\Ejercicio 5.pdb
+C:\Users\W10-PC\Desktop\Evaluacion 1 PROEM\Jesus Colmenares\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.AssemblyReference.cache
